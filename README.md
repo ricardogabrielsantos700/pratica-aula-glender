@@ -145,7 +145,7 @@ package calculadora.de.de.pkg0.a.pkg10;
 
 /**
  *
- * @author Pedro
+ * @author user
  */
 public class tabuadaDeDe0A10 {
 
